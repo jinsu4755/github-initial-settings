@@ -20,42 +20,6 @@
     "description": "우선순위 중"
   },
   {
-    "name": "Status: Done",
-    "color": "a0ffb8",
-    "description": "리뷰까지 완료 된 이슈"
-  },
-  {
-    "name": "Status: Duplicated",
-    "color": "cfd3d7",
-    "description": "이미 보고 된 이슈",
-    "aliases": [
-      "duplicate"
-    ]
-  },
-  {
-    "name": "Status: In Progress",
-    "color": "539606",
-    "description": "현재 처리 중인 이슈"
-  },
-  {
-    "name": "Status: Pending",
-    "color": "66e26c",
-    "description": "보류 중인 이슈",
-    "aliases": [
-      "wontfix"
-    ]
-  },
-  {
-    "name": "Status: Reviewing",
-    "color": "2db78b",
-    "description": "처리하고 리뷰 중인 이슈"
-  },
-  {
-    "name": "Status: To Do",
-    "color": "757c06",
-    "description": "처리해야 되는 이슈"
-  },
-  {
     "name": "Type: Bugfix/Function",
     "color": "d73a4a",
     "description": "정상 동작하지 않는 기능",
